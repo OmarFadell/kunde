@@ -10,12 +10,10 @@ const PERMISSIONS = {
   VIEW_AUDIT_LOG: "view_audit_log",
   MANAGE_USERS: "manage_users",
   VIEW_CONVERSION_RATES: "view_conversion_rates",
-<<<<<<< HEAD
-=======
-  CREATE_USERS: "create_users",
->>>>>>> 31ab7a5 (final version)
   ACTIVATE_USERS: "activate_users",
   DEACTIVATE_USERS: "deactivate_users",
+  VIEW_REQUESTS_ISENT: "view_requests_isent",
+  VIEW_REQUESTS_IRECEIVED: "view_requests_ireceived",
 };
 
 module.exports = { PERMISSIONS };

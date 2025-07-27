@@ -1,2 +1,8 @@
 /node_modules
+<<<<<<< HEAD
 .env
+=======
+.env
+**/node_modules
+**/.env
+>>>>>>> 31ab7a5 (final version)
